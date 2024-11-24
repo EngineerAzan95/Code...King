@@ -1,5 +1,5 @@
 let char = prompt("give me charset");
-if(char === a){
+if(char === 'a'){
     console.log("thanks");
 }
 else{
